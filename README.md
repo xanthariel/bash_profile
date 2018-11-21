@@ -1,2 +1,2 @@
 # bash_profile
-dont want to create the wheel each time new
+dont want to invent the wheel each time new
